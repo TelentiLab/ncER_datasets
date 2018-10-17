@@ -3,8 +3,7 @@
 Supplementary_Table_S1_FeatureDescription_20181009.xlx contains the description and accession links of all input features used in the model.
 The file was created on October 10th 2018.
 
-ncER_10bpBins_percentile_version1_part1.txt.gz (currently in the releases folder https://github.com/TelentiLab/ncER_datasets/releases/download/ncERv1.0_part1/ncER_10bpBins_percentile_version1_part1.txt.gz) contains the first part of the genome-wide percentiles of the ncER scores created on August 13th 2018.
-ncER_10bpBins_percentile_version1_part2.txt.gz (currently in the releases folder https://github.com/TelentiLab/ncER_datasets/releases/download/ncERv1.0_part2/ncER_10bpBins_percentile_version1_part2.txt.gz) contains the first part of the genome-wide percentiles of the ncER scores created on August 13th 2018.
+ncER_10bpBins_percentile_version1.txt.gz (http://159.65.78.174:8080/ncER_10bpBins_percentile_version1.txt.gz) contains the genome-wide percentiles of the ncER scores created on August 13th 2018.The coordinates are mapped to hg19.
 
 The 2 files have the following structure :
 Column 1 is the chromosome (autosomes and chromosome X; ordered alpha-numerically).
