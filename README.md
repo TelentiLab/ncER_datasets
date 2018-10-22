@@ -5,7 +5,7 @@ The file was created on October 10th 2018.
 
 ncER_10bpBins_percentile_version1.txt.gz (http://159.65.78.174:8080/ncER_10bpBins_percentile_version1.txt.gz) contains the genome-wide percentiles of the ncER scores created on August 13th 2018.The coordinates are mapped to hg19.
 
-The 2 files have the following structure :
+The file has the following structure :
 Column 1 is the chromosome (autosomes and chromosome X; ordered alpha-numerically).
 Column 2 is the start position of the bin (where the first base in a chromosome is numbered 0; the start base is included)
 Column 3 is the end position of the bin (where the first base in a chromosome is numbered 0; the end base is not included)
