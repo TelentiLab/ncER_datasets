@@ -5,7 +5,7 @@ The file was created on October 10th 2018.
 
 ncER_10bpBins_percentile_version1.txt.gz ([https://ncer.telentilab.com](https://ncer.telentilab.com)) contains the genome-wide percentiles (10bp bins) of the ncER scores created on August 13th 2018. The coordinates are mapped to hg19.
 
-the ncER_version2 folder contains two subfolder :
+the ncER_version2 folder contains two subfolders :
 Bin_1bp subfolder contains 1 file per chromosome, with the 1bp resolution genome-wide percentile of the ncER scores created on March 6th 2019. The coordinates are mapped to hg19.
 Bin_10bp subfolder contains 1 file with the 10bp resolution genome-wide percentile of the ncER scores created on March 6th 2019. The coordinates are mapped to hg19.
 
