@@ -22,7 +22,7 @@ Bin_1bp subfolder contains 1 file per chromosome ([ncER_1bpBin_chr1_coordSorted.
 [ncER_1bpBin_chr12_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr12_coordSorted.txt.gz),
 [ncER_1bpBin_chr13_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr13_coordSorted.txt.gz),
 [ncER_1bpBin_chr14_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr14_coordSorted.txt.gz),
-[ncER_1bpBin_chr15_coordSorted.txt.gz] (https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr15_coordSorted.txt.gz),
+[ncER_1bpBin_chr15_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr15_coordSorted.txt.gz),
 [ncER_1bpBin_chr16_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr16_coordSorted.txt.gz),
 [ncER_1bpBin_chr17_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr17_coordSorted.txt.gz),
 [ncER_1bpBin_chr18_coordSorted.txt.gz](https://api.telentilab.com/download/ncER_version2/Bin_1bp/ncER_perc_chr18_coordSorted.txt.gz),
